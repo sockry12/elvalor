@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "author": "ed.bc",
+  "license": "ISC",
+  "description": "ecomerce grupo el valor"
+}
