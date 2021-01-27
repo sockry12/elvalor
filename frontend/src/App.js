@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route} from 'react-router-dom';
+import { BrowserRouter, Link, Route} from 'react-router-dom';
 import CartScreen from './screens/CartScreen';
 import HomeScreen from './screens/HomeScreen';
 import ProductScreen from './screens/ProductSreen';
@@ -10,8 +10,10 @@ function App() {
     <div className = "grid-container" >
         <header className = "row" >
         <div >
-        <a className = "brand" href = "/"> The Valor Group </a> </div><div>
-        <a href = "/cart" > Carro </a> <a href = "/signin" > Ingresar </a> </div></header> 
+        <Link className = "brand" to= "/"> The Valor Group </Link> </div><div>
+        <Link to= "/cart" > Carro </Link> 
+        <Link to= "/signin" > Ingresar </Link> </div>
+        </header> 
     <main>
         <Route path="/cart/:id?" component={CartScreen}></Route>
         <Route path="/product/:id" component={ProductScreen}></Route>
