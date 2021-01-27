@@ -67,7 +67,9 @@ li{
   margin-top: 1rem;
 
 }
-
+input,
+select,
+textarea,
 button{
   padding: 1rem;
   border-radius:0.5rem;
@@ -76,10 +78,12 @@ button{
   font-family: Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+ 
+}
+button{
   background-color: #ffffff;
   cursor: pointer;
 }
-
 button.primaty{
   background-color: #f0c040;
 
@@ -87,9 +91,13 @@ button.primaty{
 button.block{
   width:100%;
 }
+input:hover,
+select:hover,
+textarea:hover,
 button:hover{
   border: 0.1rem #404040 solid;
 }
+
 /* Header */
 header a {
   color: #000000;
