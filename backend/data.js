@@ -17,8 +17,8 @@ const data = {
     ],
     products: [
        {
-           _id:'1',
-           name:'Gravity ',
+           
+           name:'Gravity',
            category:'wine',
            images:'/images/p-3.jpg',
            price:'130.00',
@@ -29,7 +29,7 @@ const data = {
            descriptions:'Alta Calidad',  
        },
        {
-        _id:'2',
+       
         name:'Gravity Falls',
         category:'wine',
         images:'/images/p-4.jpg',
@@ -42,7 +42,7 @@ const data = {
     },
     
     {
-        _id:'3',
+        
         name:'Falls',
         category:'wine',
         images:'/images/p-3.jpg',
@@ -55,7 +55,7 @@ const data = {
     },
     
     {
-        _id:'4',
+      
         name:'GravFalls',
         category:'wine',
         images:'/images/p-3.jpg',
@@ -68,7 +68,7 @@ const data = {
     },
     
     {
-        _id:'5',
+        
         name:'GravityFalls',
         category:'wine',
         images:'/images/p-3.jpg',
@@ -80,8 +80,8 @@ const data = {
         descriptions:'Alta Calidad',   
     },
     {
-        _id:'6',
-        name:'Gravity F',
+        
+        name:'Gravity 1F',
         category:'wine',
         images:'/images/p-3.jpg',
         price:'180.00',
@@ -94,8 +94,8 @@ const data = {
         
     },
     {
-        _id:'7',
-        name:'Gravity F',
+    
+        name:'Gravity2F',
         category:'wine',
         images:'/images/p-3.jpg',
         price:'200.00',
@@ -108,8 +108,8 @@ const data = {
         
     },
     {
-        _id:'8',
-        name:'Gravity F',
+      
+        name:'Gravity 3F',
         category:'wine',
         images:'/images/p-3.jpg',
         price:'210.00',
