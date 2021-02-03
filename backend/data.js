@@ -20,7 +20,7 @@ const data = {
            
            name:'Gravity',
            category:'wine',
-           images:'/images/p-3.jpg',
+           image:'/images/p-3.jpg',
            price:'130.00',
            countInStock:0,
            brand:'wine',
@@ -32,7 +32,7 @@ const data = {
        
         name:'Gravity Falls',
         category:'wine',
-        images:'/images/p-4.jpg',
+        image:'/images/p-4.jpg',
         price:'140.00',
         countInStock:11,
         brand:'wine',
@@ -45,7 +45,7 @@ const data = {
         
         name:'Falls',
         category:'wine',
-        images:'/images/p-3.jpg',
+        image:'/images/p-3.jpg',
         price:'150.00',
         countInStock:14,
         brand:'wine',
@@ -58,7 +58,7 @@ const data = {
       
         name:'GravFalls',
         category:'wine',
-        images:'/images/p-3.jpg',
+        image:'/images/p-3.jpg',
         price:'160.00',
         countInStock:0,
         brand:'wine',
@@ -71,7 +71,7 @@ const data = {
         
         name:'GravityFalls',
         category:'wine',
-        images:'/images/p-3.jpg',
+        image:'/images/p-3.jpg',
         price:'170.00',
         countInStock:14,
         brand:'wine',
@@ -83,7 +83,7 @@ const data = {
         
         name:'Gravity 1F',
         category:'wine',
-        images:'/images/p-3.jpg',
+        image:'/images/p-3.jpg',
         price:'180.00',
         countInStock:15,
         brand:'wine',
@@ -97,7 +97,7 @@ const data = {
     
         name:'Gravity2F',
         category:'wine',
-        images:'/images/p-3.jpg',
+        image:'/images/p-3.jpg',
         price:'200.00',
         countInStock:15,
         brand:'wine',
@@ -111,7 +111,7 @@ const data = {
       
         name:'Gravity 3F',
         category:'wine',
-        images:'/images/p-3.jpg',
+        image:'/images/p-3.jpg',
         price:'210.00',
         countInStock:15,
         brand:'wine',
