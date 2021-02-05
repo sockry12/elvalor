@@ -26,7 +26,7 @@ const data = {
            brand:'wine',
            rating:'4.5',
            numReviews:10,
-           descriptions:'Alta Calidad',  
+           description:'Alta Calidad',  
        },
        {
        
@@ -38,7 +38,7 @@ const data = {
         brand:'wine',
         rating:'4.5',
         numReviews:10,
-        descriptions:'Alta Calidad',   
+        description:'Alta Calidad',   
     },
     
     {
@@ -51,7 +51,7 @@ const data = {
         brand:'wine',
         rating:'4.5',
         numReviews:10,
-        descriptions:'Alta Calidad',   
+        description:'Alta Calidad',   
     },
     
     {
@@ -64,7 +64,7 @@ const data = {
         brand:'wine',
         rating:'4.5',
         numReviews:10,
-        descriptions:'Alta Calidad',   
+        description:'Alta Calidad',   
     },
     
     {
@@ -77,7 +77,7 @@ const data = {
         brand:'wine',
         rating:'4.5',
         numReviews:10,
-        descriptions:'Alta Calidad',   
+        description:'Alta Calidad',   
     },
     {
         
@@ -89,7 +89,7 @@ const data = {
         brand:'wine',
         rating:'4.5',
         numReviews:10,
-        descriptions:'Alta Calidad',   
+        description:'Alta Calidad',   
 
         
     },
@@ -103,7 +103,7 @@ const data = {
         brand:'wine',
         rating:'4.5',
         numReviews:10,
-        descriptions:'Alta Calidad',   
+        description:'Alta Calidad',   
 
         
     },
@@ -117,7 +117,7 @@ const data = {
         brand:'wine',
         rating:'4.5',
         numReviews:10,
-        descriptions:'Alta Calidad',   
+        description:'Alta Calidad',   
 
         
     },

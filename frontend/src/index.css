@@ -97,6 +97,9 @@ textarea:hover,
 button:hover{
   border: 0.1rem #404040 solid;
 }
+button.small {
+  font-size: 1.2rem;
+}
 
 /* Header */
 header a {
@@ -127,6 +130,23 @@ a.brand {
 }
 .min-30{
   min-width: 30rem;
+}
+/* Table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table tbody tr:nth-of-type(odd) {
+  background-color: #f4f4f4;
+}
+.table td,
+.table th {
+  text-align: left;
+  border: 0.1rem solid #e4e4e4;
+  padding: 0.5rem;
+}
+.table button {
+  margin: 0 0.2rem;
 }
 /* Image */
 img {
@@ -196,6 +216,12 @@ img.large{
   color: #a02020;
   background-color: #ffe0e0;
 }
+
+.alert-success {
+  color: #20a020;
+  background-color: #eeffe0;
+}
+
 /* Form */
 .form {
   max-width: 60rem;
@@ -210,6 +236,8 @@ img.large{
   margin: 1rem 0;
   display: block;
 }
+
+
 
 /* Dropdown */
 .dropdown {
